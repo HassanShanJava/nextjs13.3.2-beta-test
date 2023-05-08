@@ -3,6 +3,7 @@ import Link from "next/link";
 import React from "react";
 import styles from "../styles/navbar.module.css";
 import Logo from "../../../public/logo.png"
+import Nav from "./Nav";
 
 const Header = () => {
   return (
@@ -12,6 +13,8 @@ const Header = () => {
           <Image src={Logo} alt={"/logo"} width={80} height={80} />
         </Link>
       </div>
+
+      <Nav/>
     </header>
   );
 };
