@@ -26,7 +26,7 @@ const Hero = () => {
             </p>
             <Link href="/movie">
               <button className={mulish.className}>
-                E xp l ore    Movies</button>
+                Explore    Movies</button>
             </Link>
           </div>
 
