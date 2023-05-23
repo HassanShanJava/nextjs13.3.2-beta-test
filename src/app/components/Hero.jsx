@@ -20,7 +20,7 @@ const Hero = () => {
         <div className={styles.grid_two_section}>
           <div className={heroStyles.hero_content}>
             <p>
-              From award-winning dramas to blockbuster action movies, we&apos;ve
+              From award-winning dramas to bloc kbuster action movies, we&apos;ve
               got you covered. Browse our selection of the latest and greatest
               movies, and find your new favorite today.
             </p>
